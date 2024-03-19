@@ -4,6 +4,8 @@
 
 replicaCount: 1
 
+newVariable: "true"
+
 image:
   repository: nginx
   pullPolicy: IfNotPresent
